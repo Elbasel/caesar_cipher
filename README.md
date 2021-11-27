@@ -1,4 +1,4 @@
-# caesar_cipher
+# CS50 PSets
 
 Answers to CS50 C problem sets, please only use for compariosn and never plagiarize as you will not learn anything that way.
 Thera are more than at 2 answers to all problems here.
